@@ -1,0 +1,33 @@
+body {
+    background: #EFE3D6;
+    font-family: 'Henderson Sans', serif;
+}
+
+header{
+    padding: 40px;
+    text-align: right;
+}
+
+h3.underline {
+    color: #CA3962;
+    border-bottom: 3px solid #CA3962;
+    text-transform: uppercase;
+    width: fit-content;
+}
+
+.head {
+    margin-left: -5px;
+    overflow: hidden;
+}
+
+.head h3.underline {
+    margin: 5% 10%;
+}
+
+h1 {
+    font-family: 'IvyMode', sans-serif;
+    font-weight: 500;
+    color: #EA7B64;
+    text-transform: uppercase;
+    font-size: 70px;
+}
